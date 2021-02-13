@@ -59,6 +59,10 @@ body {
 .icon-left{
     color: white !important;
     font-size: 40px;
+    transition: all .3s ease-in-out;
+}
+.icon-left:hover{
+    color: #722e27 !important;
 }
 .icon-right{
     color: white;
