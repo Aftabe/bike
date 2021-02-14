@@ -67,6 +67,10 @@ body {
 .icon-right{
     color: white;
     font-size: 40px;
+    transition: all .3s ease-in-out;
+}
+.icon-right:hover{
+    color: #f29a26c5;
 }
 
 /* underline */
