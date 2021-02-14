@@ -1,2 +1,2 @@
-var doc = document.body;
-doc.style.color = 'green';
+document.body.style.backgroundColor = 'red';
+document.body.style.color = 'white';
