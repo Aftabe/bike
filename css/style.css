@@ -147,18 +147,14 @@ body {
       transition: all .3s;
   }
 
-  .btn:hover{
-      opacity: .7;
-  }
-
   .btn:hover .btn-arrow{
-      color: #f29c29;
+      color: #722e27;
       transform: scale(1.2);
   }
 
   .btn-arrow{
       margin-left: 5px;
-      color: #722e27;
+      color: #f29c29;
       transition: .3s ease-in-out;
   }
   .btn-arrow:hover{
